@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav1150" alt="pranav1150" /></a> </p>
 
-- 🌱 I’m currently learning **AWS CCP,AZURE FUNDAMENTALS,SELENIUM**
+- 🌱 I’m currently learning **AWS CCP,AZURE FUNDAMENTALS,SOAPUI,SELENIUM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranav1150](https://github.com/pranav1150)
 
-- 💬 Ask me about **CLOUD COMPUTING,UI AUTOMATION,WEB DEVELOPMENT**
+- 💬 Ask me about **CLOUD COMPUTING,UI AUTOMATION,API AUTOMATION,WEB DEVELOPMENT**
 
 - 📫 How to reach me **gpranav20dec@gmail.com**
 
